@@ -1,9 +1,11 @@
+import './header.css'
 
 const Header = () => {
-  return (
-    <header>
-    </header>
-  )
+    return (
+        <header>
+            header
+        </header>
+    )
 }
 
 export default Header
