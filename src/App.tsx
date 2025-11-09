@@ -1,5 +1,5 @@
-import { createBrowserRouter, createRoutesFromElements, Route } from 'react-router-dom';
-import Home from './pages/Home/Home';
+import { createBrowserRouter, createRoutesFromElements, Route } from 'react-router-dom'
+import Home from './pages/Home/Home'
 import Layout from './Layout/Layout.tsx'
 
 export const router = createBrowserRouter(
@@ -8,4 +8,4 @@ export const router = createBrowserRouter(
       <Route path="/" element={<Home />} />
     </Route>
   )
-);
+)
