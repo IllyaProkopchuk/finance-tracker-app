@@ -1,0 +1,15 @@
+# Залежності
+/node_modules
+
+# Папки збірки
+/build
+/dist
+
+# Конфігурації IDE
+/.idea
+.DS_Store
+
+# Локальні та секретні дані
+.env
+.env.local
+npm-debug.log*
