@@ -1,0 +1,5 @@
+.foot {
+    background: linear-gradient(90deg, #ffffff, #20eabc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
